@@ -1,0 +1,121 @@
+customer_id,city,segment
+1,Bursa,Small Business
+2,Istanbul,Consumer
+3,Bursa,Consumer
+4,Izmir,Consumer
+5,Ankara,Consumer
+6,Istanbul,Consumer
+7,Ankara,Small Business
+8,Izmir,Small Business
+9,Bursa,Small Business
+10,Bursa,Small Business
+11,Izmir,Corporate
+12,Istanbul,Corporate
+13,Izmir,Small Business
+14,Ankara,Consumer
+15,Istanbul,Small Business
+16,Istanbul,Corporate
+17,Izmir,Consumer
+18,Izmir,Consumer
+19,Izmir,Corporate
+20,Istanbul,Corporate
+21,Bursa,Consumer
+22,Ankara,Consumer
+23,Izmir,Small Business
+24,Ankara,Consumer
+25,Istanbul,Small Business
+26,Bursa,Small Business
+27,Istanbul,Small Business
+28,Izmir,Corporate
+29,Bursa,Small Business
+30,Bursa,Small Business
+31,Ankara,Consumer
+32,Bursa,Corporate
+33,Izmir,Small Business
+34,Istanbul,Corporate
+35,Ankara,Consumer
+36,Ankara,Consumer
+37,Izmir,Corporate
+38,Ankara,Corporate
+39,Istanbul,Corporate
+40,Izmir,Consumer
+41,Ankara,Small Business
+42,Istanbul,Corporate
+43,Istanbul,Small Business
+44,Bursa,Consumer
+45,Ankara,Consumer
+46,Istanbul,Small Business
+47,Izmir,Small Business
+48,Istanbul,Corporate
+49,Istanbul,Consumer
+50,Bursa,Corporate
+51,Ankara,Small Business
+52,Ankara,Consumer
+53,Izmir,Corporate
+54,Izmir,Consumer
+55,Izmir,Small Business
+56,Bursa,Consumer
+57,Izmir,Corporate
+58,Izmir,Corporate
+59,Bursa,Corporate
+60,Bursa,Consumer
+61,Izmir,Corporate
+62,Ankara,Consumer
+63,Ankara,Consumer
+64,Bursa,Corporate
+65,Izmir,Corporate
+66,Istanbul,Corporate
+67,Ankara,Corporate
+68,Izmir,Consumer
+69,Istanbul,Small Business
+70,Ankara,Small Business
+71,Bursa,Consumer
+72,Izmir,Corporate
+73,Ankara,Corporate
+74,Izmir,Consumer
+75,Ankara,Small Business
+76,Izmir,Small Business
+77,Istanbul,Corporate
+78,Izmir,Corporate
+79,Ankara,Consumer
+80,Istanbul,Corporate
+81,Bursa,Corporate
+82,Bursa,Consumer
+83,Ankara,Consumer
+84,Ankara,Small Business
+85,Istanbul,Corporate
+86,Izmir,Consumer
+87,Ankara,Small Business
+88,Ankara,Consumer
+89,Ankara,Small Business
+90,Istanbul,Consumer
+91,Istanbul,Consumer
+92,Bursa,Small Business
+93,Istanbul,Small Business
+94,Izmir,Corporate
+95,Ankara,Corporate
+96,Ankara,Small Business
+97,Istanbul,Corporate
+98,Izmir,Small Business
+99,Izmir,Consumer
+100,Istanbul,Consumer
+101,Istanbul,Consumer
+102,Istanbul,Consumer
+103,Istanbul,Consumer
+104,Istanbul,Consumer
+105,Bursa,Small Business
+106,Izmir,Corporate
+107,Izmir,Consumer
+108,Izmir,Consumer
+109,Izmir,Corporate
+110,Bursa,Consumer
+111,Ankara,Corporate
+112,Ankara,Corporate
+113,Bursa,Corporate
+114,Bursa,Corporate
+115,Izmir,Small Business
+116,Bursa,Corporate
+117,Bursa,Corporate
+118,Bursa,Consumer
+119,Izmir,Small Business
+120,Ankara,Corporate
